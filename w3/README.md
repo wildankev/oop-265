@@ -17,11 +17,18 @@ untuk modul dapat diakses melalui link [berikut](https://drive.google.com/file/d
 3. Masukkan kode yang akan di-_compile_ nantinya. Kode yang saya gunakan, dapat diakses [di sini.](./TicketMachine.java)
    [Code](./assets/CodePro.png)
 4. Compile dan selanjutnya close.
-5. Setelah berhasil di-_compile_, selanjutnya klik kanan pada class yang telah dibuat tadi, dan pilih opsi `new TicketMAchine(int ticketCost)`, selanjutnya masukkan harga untuk tiket tersebut.
+5. Setelah berhasil di-_compile_, selanjutnya klik kanan pada class yang telah dibuat tadi, dan pilih opsi `new TicketMAchine(int ticketCost)`, selanjutnya masukkan harga untuk tiket tersebut. Pada kesempatan kali ini saya akan memasukkan angka 1000.
    [TicketCost](./assets/TicketCost.png)
-6. 
+6. Apabila berhasil,  di bagian bawah akan muncul kotak merah yang menandakan bahwa object TicketMachine berhasil dibuat. Lalu selanjutnya dapat klik kanan pada kotak merah yang muncul dan pilih opsu `void insertMoney(int amount)` untuk mengubah uang yang saat ini dimiliki untuk membeli tiket. Pada kesempatan kali ini saya akan memasukkan angka 1000.
+   [InsertMoney](./assets/InsertMoney.png)
+7. Selanjutnya kita klik kanan lagi, dan pilih opsi `printTicket()` Untuk mencetak tiket dan mengubah nilai variabel total, maka akan keluar output sebagai berikut.
+   [Output](./assets/Output.png)
+8. Dan saat klik dua kali pada kotak merah, maka kita akan dapat melihat kembali nilai variabel total. Karena saya berhasil membeli 1 tiket, maka nilai variabel total yang muncul ketika diinspect adalah 1000.
+   [HasilTiket](./assets/HasiTiket.png)
+
+---
 
 ## Identitas
-- **Nama**: A. Wildan Kevin Assyauqi  
-- **NRP**: 5025241265  
-- **Kelas**: Pemrograman Web - B
+- **Nama**   : A. Wildan Kevin Assyauqi  
+- **NRP**    : 5025241265  
+- **Kelas**  : Pemrograman Berorientasi Objek - B
