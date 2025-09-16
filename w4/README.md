@@ -14,15 +14,15 @@ untuk modul dapat diakses melalui link [berikut](https://www.slideshare.net/slid
 Untuk project kali ini diperlukan 3 class untuk membuat GUI Clock, yaitu `NumberDisplay`, `ClockDisplay` dan `CLock`. 
 Untuk sorce code dapat diakses melalui link di bawah ini:
 
-- [NumberDisplay](NumberDisplay)
-- [ClockDisplay](ClockDisplay)
-- [CLock](Clock)
+- [NumberDisplay](NumberDisplay.java)
+- [ClockDisplay](ClockDisplay.java)
+- [CLock](Clock.java)
 
 ### Preview Jam
 - Tampilan di `BlueJ`
-  ![](assets/ssBluej)
+  ![](assets/ssBluej.png)
 - Tampilan jam setelah di-compile
-  ![](assets/ssJam)
+  ![](assets/ssJam.png)
 
 ---
 
