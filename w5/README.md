@@ -20,7 +20,7 @@ Untuk source code dapat diakses melalui link di bawah ini:
 - [MataKuliah](code/MataKuliah.java)
 - [Dosen](code/Dosen.java)
  
-### Preview Jam
+### Preview Pengambilan Mata Kuliah
 - Tampilan di `BlueJ`
   <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4917a086-3683-4d7e-b150-7fcbcb4cf2d8" />
 - Tampilan compiler untuk mengambil mata kuliah
