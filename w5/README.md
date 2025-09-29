@@ -6,24 +6,26 @@ Assalamualaikum Warahamatullahi Wabarakatuh,
 Pada kuliah pertemuan kelima dalam kelas Pemrograman Berorientasi Objek kelas B tanggal 23 September 2025. 
 Saya ditugaskan untuk mengimplementasikan pembuiatan sistem FRS sederhana dengan bahasa `JAVA` dan compiler `BlueJ`. Di mana saya ditugaskan untuk menampilkan informasi setidakknya `dosen`, `mahasiswa` dan `matkul`
 
-untuk materi dapat diakses melalui link [berikut]([https://www.slideshare.net/slideshow/interaksi-obyek/116196656](https://fajarbaskoro.blogspot.com/2025/09/konsep-dan-sifat-obyek.html )).
+untuk materi dapat diakses melalui link [berikut](https://fajarbaskoro.blogspot.com/2025/09/konsep-dan-sifat-obyek.html)
 
 ## Preview dan penjelasan
 
 ### Penjelasan
-Untuk project kali ini diperlukan 3 class untuk membuat GUI Clock, yaitu `NumberDisplay`, `ClockDisplay` dan `CLock`. 
-Untuk sorce code dapat diakses melalui link di bawah ini:
+Untuk project kali ini diperlukan 5 class, yaitu `Main`, `Classroom`, `Mahasiswa`, `MataKuliah`, dan `Dosen`. 
+Untuk source code dapat diakses melalui link di bawah ini:
 
-- [NumberDisplay](NumberDisplay.java)
-- [ClockDisplay](ClockDisplay.java)
-- [CLock](Clock.java)
-
+- [Main](code/Main.java)
+- [Classroom](code/Classroom.java)
+- [Mahasiswa](code/Mahasiswa.java)
+- [MataKuliah](code/MataKuliah.java)
+- [Dosen](code/Dosen.java)
+ 
 ### Preview Jam
 - Tampilan di `BlueJ`
-  ![](assets/ssBluej.png)
-- Tampilan jam setelah di-compile
-  
-  ![](assets/ssJam.png)
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4917a086-3683-4d7e-b150-7fcbcb4cf2d8" />
+- Tampilan compiler untuk mengambil mata kuliah
+  <img width="1911" height="900" alt="image" src="https://github.com/user-attachments/assets/513d429e-62a3-49e0-88b9-3a0fd4cb8eb9" />
+
 
 ---
 
