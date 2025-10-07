@@ -1,9 +1,9 @@
-# Tugas 6 - Pemrograman Berorientasi Objek B
+# Tugas 7 - Pemrograman Berorientasi Objek B
 
 ## Deskripsi
 Assalamualaikum Warahamatullahi Wabarakatuh, 
 
-Pada kuliah pertemuan keenam dalam kelas Pemrograman Berorientasi Objek kelas B tanggal 30 September 2025. 
+Pada kuliah pertemuan ketujuh dalam kelas Pemrograman Berorientasi Objek kelas B tanggal 30 September 2025. 
 Saya ditugaskan untuk mengimplementasikan pembuaatan grouping sederhana dengan bahasa `JAVA` dan compiler `BlueJ`. Di mana saya ditugaskan untuk meembuat `semacam task organizer`
 
 - untuk materi dapat diakses melalui link [berikut](https://fajarbaskoro.blogspot.com/2025/10/moresophisticated-behavior.html)
