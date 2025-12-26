@@ -75,6 +75,9 @@ Untuk source code dapat diakses melalui link di bawah ini:
 
 ### Preview
 
+- **Struktur**
+  ![](assets/Structure.webp)
+
 - **Game Awal**
   ![](assets/Output1.webp)
 
